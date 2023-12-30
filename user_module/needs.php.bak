@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FARMER'S DAIRY</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/global.css" rel="stylesheet">
+	<link href="css/index.css" rel="stylesheet">
+	<link href="css/about.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<script src="js/jquery-2.1.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+     
+	 <style> 
+img {
+  width: 270px;
+  border: 1px solid black;
+  height:400px;
+  margin-right: 30px;   /* Horizontal Space */
+  margin-bottom: 30px;  /* Vertical Space */
+  border: 2px solid black;
+ }
+</style>
+  </head>
+<body>
+
+<section id="top">
+ <div class="container">
+  <div class="row">
+   <div class="top_1 clearfix">
+    <div class="col-sm-3">
+	 <div class="top_1l clearfix">
+	   <h2 class="mgt big"><a class="col_1" href="index.html"><span class="col_4">FARMER'S </span>DAIRY</a></h2>
+	 </div>
+	</div>
+   </div>
+  </div>
+ </div>
+</section>
+
+<section id="header" class="clearfix cd-secondary-nav">
+	<nav class="navbar nav_t">
+		<div class="container">
+		    <div class="navbar-header page-scroll">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			  	 <ul class="nav navbar-nav">
+				<li><a class="m_tag" href="home.php">Home</a></li>
+				<li><a class="m_tag " href="about.php">About</a></li>
+				<li><a class="m_tag" href="services.php">Services</a></li>
+				<li><a class="m_tag" href="needs.php">Cattle Needs</a></li>
+				<li><a class="m_tag" href="services.php">Bill Details</a></li>
+				<li><a class="m_tag" href="contact.php">Feedback</a></li>
+				
+			</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container-fluid -->
+	</nav>
+	
+	</section>
+	
+<section id="center" class="center_o clearfix">
+ <div class="container">
+   <div class="row">
+       <div class="serv_h1 text-center clearfix">
+     <div class="col-sm-12">
+	  <h2 class="col_4">Cattle Needs</h2>
+	  <hr class="hr_1">
+	  <p>We provide good nutritions and medicines to the cow </p>
+	 </div>
+   </div>
+   </div>
+  </div>
+</section>
+
+<section id="team_h">
+ <div class="container">
+  <div class="row">
+   <div class="team_h1 clearfix">
+    <div class="col-sm-3 space_left">
+	 <div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m2.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">HB Strong</h4>
+				<h5>Rs. 100</h5>
+				<h6>It improves milk</h6>
+			</div>
+		</div>
+	</div>
+    <div class="col-sm-3 space_left">
+	 <div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m8.jpg" class="iw" alt="img25" > 
+					  </a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Mastacure tablets</h4>
+				<h5>Rs. 180</h5>
+				<h6>It cures injury </h6>
+			</div>
+		</div>
+	</div>
+	    <div class="col-sm-3 space_left">
+	 <div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m6.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Milkogen</h4>
+				<h5>Rs. 130</h5>
+				<h6>It improves milk </h6>
+			</div>
+		</div>
+	</div>
+    <div class="col-sm-3 space_left">
+	 <div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m7.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Dr.B S K</h4>
+				<h5>Rs. 200</h5>
+				<h6>Syrup  </h6>
+			</div>
+		</div>
+	</div>
+	    <div class="col-sm-3 space_left">
+	 <div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m10.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Profen</h4>
+				<h5>Rs. 270</h5>
+				<h6>Protin powder </h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m15.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Himax Ointment</h4>
+				<h5>Rs. 68</h5>
+				<h6>allergies and skin inections </h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/m14.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Topicure Spary</h4>
+				<h5>Rs. 120</h5>
+				<h6>ringworm, fungal infection</h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/37.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Calcium Powder</h4>
+				<h5>Rs. 50</h5>
+				<h6>Calcium</h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/30.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Basic Milking Cattle Feed</h4>
+				<h5>Rs. 1350/50 kg</h5>
+				<h6>maintaince of milk production</h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/31.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Cotton Oil Cake</h4>
+				<h5>Rs. 475/25 kg</h5>
+				<h6>nutrition for cattle.</h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/35.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Coconut Oil Cake</h4>
+				<h5>Rs. 1000/25 kg</h5>
+				<h6> protein and energy </h6>
+			</div>
+		</div>
+	</div>
+	
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/32.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">Goudhara-Shakthi</h4>
+				<h5>Rs. 250/25 kg</h5>
+				<h6>Nutrients</h6>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3 space_left">
+	<div class="team_h2i clearfix">
+		<div class="team_h2i1 clearfix">
+			<div class="grid clearfix">
+		         <figure class="effect-jazz">
+			          <a href="#"><img src="img/45.jpg" class="iw" alt="img25" ></a>
+		           </figure>
+	          </div>
+			</div>
+			<div class="team_h2i2 text-center clearfix" style=" border: 2px solid black;">
+				<h4 class="mgt">nandini mineral mixture</h4>
+				<h5>Rs.1000/25 kg</h5>
+				<h6>protient and energy</h6>
+			</div>
+		</div>
+	</div>
+   </div>
+  </div>
+ </div>
+</section>
+
+<section id="footer">
+ <div class="container">
+  <div class="row">
+   <div class="footer_1 clearfix">
+	 <div class="col-sm-4 space_left">
+	  <div class="footer_1i clearfix">
+	    <h2 class="mgt big"><a class="col_1" href="index.html"><i class="fa fa-truck col_1"></i><span class="col">FARMER'S <br></span>DAIRY</a></h2>
+		<p class="col_3">To facilitate rural development by providing opportunities for self-employement along with providing opportunity for steady income at village level </p>
+		 
+	  </div>
+	 </div>
+	 <div class="col-sm-3 space_left">
+	  <div class="footer_1i1 clearfix">
+	   <h4 class="col mgt">Contact Us</h4>
+	   <hr class="hr_1 mgl">
+	   <p class="col_3"><i class="fa fa-map-marker col_1"></i>Periyadka,puttur Taluk</p>
+	   <p class="col_3"><i class="fa fa-phone col_1"></i> (+91) 8236945578</p>
+	   <p class="col_3"><i class="fa fa-envelope col_1"></i>amruthsangham@gmail.com</p>
+	   <p class="col_3"><i class="fa fa-clock-o col_1"></i> Morning (07AM - 09AM)<br> Evening (3:30PM - 05:30PM)</p>
+	  </div>
+	 </div>
+	 
+	 <div class="col-sm-3 space_left">
+	  <div class="footer_1i1 clearfix">
+	   <h4 class="col mgt">Queries</h4>
+	   <hr class="hr_1 mgl">
+	   <p class="col_3">For more queries contact us</p>
+       
+	  </div>
+	 </div>
+   </div>
+  </div>
+ </div>
+</section>
+
+<script>
+$(document).ready(function(){
+	/*****Fixed Menu******/
+	var secondaryNav = $('.cd-secondary-nav'),
+	   secondaryNavTopPosition = secondaryNav.offset().top;
+	   navbar_height = document.querySelector('.navbar').offsetHeight;
+	   
+		$(window).on('scroll', function(){
+		    if($(window).scrollTop() > secondaryNavTopPosition + navbar_height ) {
+				secondaryNav.addClass('is-fixed');	
+				document.body.style.paddingTop = navbar_height + 'px';
+				
+			} else {
+				secondaryNav.removeClass('is-fixed');
+				document.body.style.paddingTop = '0'
+			}
+		});	
+		
+});
+</script>
+
+<script>
+	$(document).on('click', '.panel-heading span.clickable', function(e){
+    var $this = $(this);
+	if(!$this.hasClass('panel-collapsed')) {
+		$this.parents('.panel').find('.panel-body').slideUp();
+		$this.addClass('panel-collapsed');
+		$this.find('i').removeClass('glyphicon-chevron-up').addClass('glyphicon-chevron-down');
+	} else {
+		$this.parents('.panel').find('.panel-body').slideDown();
+		$this.removeClass('panel-collapsed');
+		$this.find('i').removeClass('glyphicon-chevron-down').addClass('glyphicon-chevron-up');
+	}
+})
+</script>
+
+</body>
+ 
+</html>

@@ -1,0 +1,92 @@
+<html>
+<head>
+<style>
+.box-title{
+  font-weight:bold;
+}
+.heading-row td{
+  font-weight:bold;
+  text-align:center;
+  border-bottom:solid 1px red;
+}
+.total-row td{
+  font-weight:bold;
+}
+.v-row td{
+  border:none;
+}
+@media print{
+  button .print-btn{
+    display:none;
+  }
+}
+</style>
+ </head>
+ <body>
+ <div class="container-fluid">
+  <div id="bill-display">
+    <!-- ----- HEADER ---- -->
+    <table class="table table-bordered">
+      <caption class="text-center"><H1><B>ಅಮೃತ ಸಂಗಮ  ಎಂ.ಪಿ.ಸಿ.ಎಸ್</B></H1></caption>
+      <tr align="center">
+        
+		<td colspan="2" >
+          <div class="box-title">ದಿನಾಂಕ </div>
+          <div class="box-content">10-08-2016</div>
+        </td>
+		
+		<td colspan="2" >
+          <div class="box-title">ಸಮಯ</div>
+          <div class="box-content"> ಬೆಳಿಗ್ಗೆ</div>
+        </td>
+        </tr>
+      <tr align="center">
+	    <td colspan="2">
+          <div class="box-title">ಕೋಡ್ </div>
+          <div class="box-content">452</div>
+        </td>
+		<td colspan="2">
+          <div class="box-title">ಜಾನುವಾರು</div>
+          <div class="box-content">ಹಸು</div>
+        </td>
+        
+        </tr>
+      <tr align="center">
+        <td colspan="3" rowspan="3">
+          <div class="box-title">ಹೆಸರು</div>
+          <div class="box-content">
+            ಮಹೇಶ್ ನೆಡ್ಚಿಲ್<br>
+         </div>
+        </td>
+        
+      </tr><TR></TR>
+      </tr><TR></TR>
+     <BR>
+      <!-- ----- BODY ---- -->
+      <tr align="center" class="heading-row v-row" >
+        <th>FAT</th>
+        <th>CLR</th>
+        <th>SNF</th>
+		<th>ಲೀಟರ್: .</th>
+       </tr>
+      <tr class="v-row">
+        <td>3.5</td>
+        <td>9.00</td>
+        <td>8.5</td>
+        <td >3.9</td>
+      </tr>
+      
+      <!-- ----- FOOTER ---- -->
+      <tr>
+        <th colspan="3">ಬೆಲೆ: .  
+        </th><td>29.00</td></tr>
+	<tr>
+        <th colspan="3" > ಮೊತ್ತ</th><td>113.10</td>
+      </tr>
+      
+    </table>
+  </div>
+  <button class="btn btn-default .print-btn" onclick="jsvascript:window.print()">ಬಿಲ್</button>
+</div>
+ </body>
+</html>
